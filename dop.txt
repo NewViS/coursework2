@@ -1,0 +1,2 @@
+Opel Astra H;2010;90;1.4;manual;6.3;4515;1794;1500
+Toyota Camry;2019;249;3.5;automatic;9.3;4825;1825;1480
